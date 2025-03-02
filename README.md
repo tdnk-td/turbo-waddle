@@ -1,23 +1,33 @@
-Blade & Soul Boss Timer Tracker
-A simple web app to track boss timers across multiple channels in Blade & Soul using React + Tailwind CSS.
+# Blade & Soul Neo Boss Timers
 
-🚀 Features
+Simple overview of use/purpose.
+
+## Description
+
 - Start countdown timers for Channels 1 - 24 (5 min, 2 min, 8 min).
 - Timers count into negative values after reaching zero.
 - Highlights the closest-to-zero timer in red.
 - Uses React + Vite + Tailwind CSS for a modern, responsive UI.
 
-- 🛠 Installation & Setup
-1️⃣ Clone the Repository
+## Getting Started
+
+### Dependencies
+
+* Node.js 
+* Tailwindcss
+
+### Installing
+
+* Clone the repository
+```
 git clone https://github.com/yourusername/boss-timer-tracker.git
 cd boss-timer-tracker
-
-- 2️⃣ Install Dependencies
+```
+* Installing dependencies
+```
 npm install
-
-- 3️⃣ Start the Development Server
+```
+* Starting
+```
 npm run dev
-
-- 🏗 Building for Production
-To generate optimized production files:
-npm run build
+```
