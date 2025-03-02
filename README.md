@@ -1,6 +1,6 @@
-# Blade & Soul Neo Boss Timers
+# Blade & Soul Neo Boss Timer
 
-Simple overview of use/purpose.
+A web app to track boss timers across multiple channels in Blade & Soul using React & TailwindCSS
 
 ## Description
 
