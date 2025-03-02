@@ -18,16 +18,7 @@ A web app to track boss timers across multiple channels in Blade & Soul using Re
 
 ### Installing
 
-* Clone the repository
-```
-git clone https://github.com/yourusername/boss-timer-tracker.git
-cd boss-timer-tracker
-```
-* Installing dependencies
 ```
 npm install
-```
-* Starting
-```
 npm run dev
 ```
